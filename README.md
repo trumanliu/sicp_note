@@ -1,4 +1,4 @@
-  前几天在github上看到开源的MIT bibble级别教材[sicp](https://github.com/sarabander/sicp-pdf)（计算机程序的构造与解释），便下载下来看。无奈英文阅读退化到好严重，看了几页就坚持不下去了。于是下单了一本纸制书，在这里开一个项目记录一下我的读书笔记。估计会有少量的写道读书过程中的记录，还有习题自己的解法。单独写一个这个可能会很无聊，只是用来防止我无可救药的拖延症。
+  前几天在github上看到开源的MIT bibble级别教材[sicp](https://github.com/sarabander/sicp-pdf)（计算机程序的构造与解释），便下载下来看。无奈英文阅读退化到好严重，看了几页就坚持不下去了。于是下单了一本纸制书，在这里开一个项目记录一下我的读书笔记。估计会有少量的写到读书过程中的记录，还有习题解法。单独写一个这个可能会很无聊，只是用来防止我无可救药的拖延症。
 ##序
   ` What’s in your hands, I think and hope, is intelligence: the ability to see the machine as more than when
 you were first led up to it, that you can make it more. `
@@ -7,8 +7,9 @@ you were first led up to it, that you can make it more. `
 ### 程序设计的基本元素
 * 基本表达形式
 * 组合的方法
-* 抽象的方法
-### Lisp宗教
+* 抽象的方法  
+
+###Lisp宗教
   在看这本书之前看到大家对Lisp黑的已经体无完肤了，其实我感觉语言倒是没什么。反正教材性质到书应该更多到关注思想。当然多一种语言也能开阔思路。好像Lisp有很多的方言，书中使用的是Schema，目前为止感觉最新奇的是`前缀表示(prefix notation)`.
 ```Lisp
 (+ 1 2)
