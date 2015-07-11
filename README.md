@@ -61,4 +61,4 @@ b a
 (/ (+ 4 5 (- 2 (- 3 (+ 6 (/ 4 5))))) (* 3 (- 6 2) (- 2 7) ))
 ``` 
 
-此处值得说一下这个公式的插入，使用了forkosh的接口，由于种种原因没有采用谷歌服务(此处省略一些话)。关于如何在markdown中用正确的姿势插入美观的数学公式请参考[这里](http://blog.csdn.net/xiahouzuoxin/article/details/26478179)
+此处值得说一下这个公式的插入，使用了forkosh的接口，由于种种原因没有采用谷歌服务(此处省略一些话)。关于如何在markdown中用正确的姿势插入美观的数学公式请参考[这里](http://www.trumanliu.com/github-markdown-math-formulas/)
